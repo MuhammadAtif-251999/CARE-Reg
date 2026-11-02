@@ -10,4 +10,4 @@ The source code will be made publicly available in this repository upon publicat
 If reviewers have any questions regarding the proposed method, data, or research, please feel free to contact:
 
 **Authors team**  
-Email: atif@SEU.edu.cn
+Email: atif@seu.edu.cn
