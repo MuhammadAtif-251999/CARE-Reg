@@ -1,7 +1,4 @@
 # CARE-Reg
-
-**Counterfactual Agreement–Disagreement Framework for Reliable Correspondence Estimation in Medical Image Registration**
-
 This repository is dedicated to CARE-Reg, a framework for deformable medical image registration.
 
 ### Code Availability
